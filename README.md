@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @SandeepURO
-- 👀 I’m interested in CRAZY TECHNOLOGY 
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ALL COMPANIES 
-- 📫 How to reach me THROUGH GMAIL
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫 About Me:
+🔭 I’m currently working on AI + Web Development projects (Full-Stack apps)<br><br>👯 I’m looking to collaborate on Machine Learning, Web Development & Open Source projects<br><br>🤝 I’m looking for help with Advanced AI Models, Backend APIs & Real-time systems<br><br>🌱 I’m currently learning JavaScript, Node.js, MongoDB, AI/ML & DSA<br><br>💬 Ask me about C++, Java, Python, HTML, CSS, JavaScript, DBMS & Project Development<br><br>⚡ Fun fact: I love turning ideas into real applications 🚀<br>
 
-<!---
-SandeepURO/SandeepURO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
